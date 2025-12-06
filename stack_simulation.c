@@ -1,9 +1,4 @@
-/*
- * Stack Simulation Project in C - Enhanced Educational Version
- * Author: GitHub User
- * Description: Complete implementation with detailed step-by-step explanations
- * File: stack.c
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
